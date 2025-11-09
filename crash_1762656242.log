@@ -1,0 +1,11 @@
+=== CRASH REPORT ===
+Timestamp: 2025-11-08 18:44:02
+Signal: SIGSEGV (Segmentation fault)
+
+Stack trace (4 frames):
+  #0 /home/dsystems/Desktop/projects/cpp/stacktrace/main2.cpp:193 in level3()
+  #1 /home/dsystems/Desktop/projects/cpp/stacktrace/main2.cpp:197 in level2()
+  #2 /home/dsystems/Desktop/projects/cpp/stacktrace/main2.cpp:201 in level1()
+  #3 /home/dsystems/Desktop/projects/cpp/stacktrace/main2.cpp:214 in main
+
+=== END CRASH REPORT ===
