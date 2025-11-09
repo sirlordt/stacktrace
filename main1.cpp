@@ -12,7 +12,7 @@ namespace backward {
 struct StackFrame {
     std::string file;
     int line;
-    std::string function;
+    std::string function; 
 };
 
 bool shouldSkipFrame(const std::string& filename, const std::string& function) {
